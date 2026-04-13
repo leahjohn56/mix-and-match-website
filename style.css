@@ -1,0 +1,31 @@
+body{
+    background-color: #fff9c2;
+    color: #cbeeed;
+    text-align: center;
+    font-family: Playwrite IE;
+}
+
+.playwrite-ie {
+    font-family: "Playwrite IE", cursive;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+
+  .image{
+    color: rgb(99, 99, 99);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+  /*extra*/
+  .image:hover{
+    color: #cbeeed;
+  }
+
+  .side{
+    display: inline;
+  }
+  .otherSide{
+    display: inline;
+  }
+
+
