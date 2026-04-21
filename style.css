@@ -18,6 +18,7 @@ body{
   
   /*extra*/
   .image:hover{
+    text-indent: 600px;
     color: #cbeeed;
   }
 
